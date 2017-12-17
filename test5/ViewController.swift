@@ -57,6 +57,7 @@ class ViewController: UIViewController {
         }
         // https://paste.ubuntu.com/26193991/
         // commit bir aciklama ister
+        // degisiklik yaptim
         
         
     }
